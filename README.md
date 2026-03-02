@@ -2,6 +2,17 @@
 
 A full-stack web application that ingests AI-generated CCTV events from a manufacturing factory and displays real-time worker productivity metrics.
 
+<div align="center">
+
+### 🌐 [**Live Demo**](https://ai-powered-worker-productivity-dashboard-qdw5.onrender.com/)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Dashboard-blue?style=for-the-badge&logoColor=white)](https://ai-powered-worker-productivity-dashboard-qdw5.onrender.com/)
+[![Status](https://img.shields.io/website?url=https%3A%2F%2Fai-powered-worker-productivity-dashboard-qdw5.onrender.com&style=for-the-badge&label=Status)](https://ai-powered-worker-productivity-dashboard-qdw5.onrender.com/)
+
+</div>
+
+> **Note:** The app is hosted on Render's free tier. The first request may take ~30 seconds if the instance has spun down due to inactivity.
+
 **Tech Stack:** FastAPI (Python) · SQLite · React · Tailwind CSS · Recharts · Docker
 
 ---
